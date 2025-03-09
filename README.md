@@ -28,7 +28,7 @@ This project uses standard web technologies and requires no additional dependenc
 
 ## Project Structure
 
-smart-maths
+Smart Maths
 
 index.html       # Main HTML structure
 
