@@ -31,8 +31,11 @@ This project uses standard web technologies and requires no additional dependenc
 smart-maths
 
 index.html       # Main HTML structure
+
 styles.css       # User interface styling
+
 script.js        # Calculator logic
+
 README.md        # Project documentation
 
 ## Contributions
