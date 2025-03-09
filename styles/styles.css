@@ -1,0 +1,24 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Rubik Dirt', cursive;
+}
+
+.calculator {
+    max-width: 400px;
+}
+
+#display {
+    height: 60px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#history-container {
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    background: #f9f9f9;
+}
